@@ -1,3 +1,20 @@
+# react_scrimba_meme_generation
+
+This project is a React application for generating memes. It allows users to create custom memes by adding text to popular meme templates.
+
+## Installation
+
+To install and run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```shell
+git clone https://github.com/dovranmuhammet/react_scrimba_meme_generation.git
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
